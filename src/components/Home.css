@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    box-sizing: border-box;
+}
+
+.header-home {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 88px;
+}
+
+.gambar-header-home {
+    width: 100%;
+    height: 600px;
+    filter: brightness(60%);
+}
+
+.header-kotak-home {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-110%, -50%);
+    margin-left: 50px;
+    width: 600px;
+}
+
+.text-header-home {
+    text-align: left;
+}
+
+.container-home {
+    width: 100%;
+    text-align: center;
+}
+
+.sambutan-home {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.judul-home {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text-home {
+    font-size: 16px;
+    color: rgb(94, 94, 94);
+    text-align: justify;
+}
+
+.parent-gambar-sambutan {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.gambar-sambutan {
+    width: 300px;
+    margin-right: 20px;
+}
+
+.container-nama-home {
+    width: 320px;
+    border-radius: 5px;
+    padding: 20px 25px 20px 30px;
+    background-color: rgb(165, 221, 54);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nama-home {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.isi-profil-home {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.visi-misi {
+    width: 100%;
+    padding: 0 150px 0 150px;
+    box-sizing: border-box;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-home-center {
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-align: center;
+    margin-top: 0px;
+}
+
+.aw {
+    margin-right: 45px;
+}
+
+.ae {
+    margin-top: 70px;
+}
+
+.text-home2 {
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-align: justify;
+}
+
+.struktur {
+    margin-top: 0;
+}
+
+.tombol {
+    text-align: center;
+}
+
+button {
+    padding: 22px 32px 22px 32px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: rgb(165, 221, 54);
+    border-radius: 8px;
+    border: none;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(101, 136, 31);
+}
+

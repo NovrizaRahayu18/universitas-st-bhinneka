@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-profil {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.gambar-header-profil {
+    width: 100%;
+    height: 400px;
+    filter: brightness(60%);
+    margin-top: 88px;
+
+}
+
+.header-kotak-profil {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 50px;
+    width: 600px;
+}
+
+.text-header-profil {
+    text-align: justify;
+    margin-left: 175px;
+    margin-bottom: 0;
+}
+
+.container-profil {
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+    margin-top: 70px;
+}
+
+
+.profil-univ {
+    width: 80%;
+}
+
+.judul-kontak {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text-kontak {
+    font-size: 16px;
+    color: rgb(94, 94, 94);
+    text-align: justify;
+}
+
+.container-nama{
+    width: 100%;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card1-kontak {
+    padding: 10px;
+    box-sizing: border-box;
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(165, 221, 54);
+}
+
+.judul1-kontak {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.text2-kontak {
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+.parent-profil {
+    width: 100%;
+}
+
+.container-logo {
+    width: 100%;
+}
+
+.oi {
+    margin-top: 120px;
+}
+
+
+.logo-kontak {
+    width: 300px;
+    margin-left: 255px;
+    margin-top: 20px;
+}
+.parent-logo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+

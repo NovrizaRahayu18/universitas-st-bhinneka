@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-fakultas {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.gambar-header-fakultas {
+    width: 100%;
+    height: 400px;
+    filter: brightness(60%);
+    margin-top: 88px;
+
+}
+
+.header-kotak-fakultas {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 50px;
+    width: 600px;
+}
+
+.text-header-fakultas {
+    text-align: justify;
+    margin-left: 140px;
+    margin-bottom: 0;
+}
+
+.hubungi-kontak {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.apa {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+.text {
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-align: center;
+}
+
+.con-kontak {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+.kotak-kontak {
+    width:40%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color:rgb(165, 221, 54);
+    
+}
+
+.judul-kontak-kontak {
+    font-weight: bold;
+    font-size: 22px;   
+    margin-bottom: 0; 
+}
+
+.isi-kontak-kontak {
+    font-size: 16px;
+}
+
+.maps {
+    width:40%;
+}
+
+iframe {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}

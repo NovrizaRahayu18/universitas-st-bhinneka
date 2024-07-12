@@ -1,0 +1,19 @@
+html,body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: rgb(165, 221, 54);
+    height: 80px;
+    margin-top: 50px;
+}
+
+.isi-footer {
+    margin: 0;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+    font-weight: bold;
+}
