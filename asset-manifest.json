@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/universitas-st-bhinneka/static/css/main.064e5bf8.css",
+    "main.js": "/universitas-st-bhinneka/static/js/main.ff49249a.js",
+    "static/js/453.f4859810.chunk.js": "/universitas-st-bhinneka/static/js/453.f4859810.chunk.js",
+    "index.html": "/universitas-st-bhinneka/index.html",
+    "main.064e5bf8.css.map": "/universitas-st-bhinneka/static/css/main.064e5bf8.css.map",
+    "main.ff49249a.js.map": "/universitas-st-bhinneka/static/js/main.ff49249a.js.map",
+    "453.f4859810.chunk.js.map": "/universitas-st-bhinneka/static/js/453.f4859810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064e5bf8.css",
+    "static/js/main.ff49249a.js"
+  ]
+}
